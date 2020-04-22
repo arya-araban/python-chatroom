@@ -1,0 +1,4 @@
+type {quit} to close entire app
+type {exitGP} to exit current group
+type {members} to see current members inside group
+type {whereAmI} to see what group you're in
